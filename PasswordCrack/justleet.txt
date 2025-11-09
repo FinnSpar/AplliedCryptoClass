@@ -1,0 +1,26 @@
+Session..........: 2025-11-04
+Status...........: Exhausted
+Hash.Mode........: 500 (md5crypt, MD5 (Unix), Cisco-IOS $1$ (MD5))
+Hash.Target......: C:\Users\spark\OneDrive\Documents\AplliedCryptoClass\PasswordCrack\shadow.txt
+Time.Started.....: Sat Nov 08 12:33:13 2025 (25 secs)
+Time.Estimated...: Sat Nov 08 12:33:38 2025 (0 secs)
+Kernel.Feature...: Pure Kernel (password length 0-256 bytes)
+Guess.Base.......: File (C:\Users\spark\OneDrive\Documents\AplliedCryptoClass\PasswordCrack\leetwordlist.txt)
+Guess.Queue......: 1/1 (100.00%)
+Speed.#01........:  5256.5 kH/s (99.15ms) @ Accel:28 Loops:1000 Thr:896 Vec:1
+Recovered........: 5/15 (33.33%) Digests (total), 5/15 (33.33%) Digests (new), 5/15 (33.33%) Salts
+Progress.........: 151767945/151767945 (100.00%)
+Rejected.........: 0/151767945 (0.00%)
+Restore.Point....: 10117863/10117863 (100.00%)
+Restore.Sub.#01..: Salt:14 Amplifier:0-1 Iteration:0-1
+Candidate.Engine.: Host Generator + PCIe
+Candidates.#01...: dev+$chl@nd -> configvrations
+Hardware.Mon.#01.: Temp: 68c Fan: 67% Util: 99% Core:1950MHz Mem:7301MHz Bus:16
+Started: Sat Nov 08 12:33:09 2025
+Stopped: Sat Nov 08 12:33:39 2025
+
+$1$GZj3MlE0$cKGf64wRfUuo8DzPVxhli0:c0mp4ni35
+$1$Bgkt.BoA$M//J3OiXrO2je/B4Wh0wA1:31iz4b3th
+$1$ii13OK6b$j39q6K.6TKBzZzCGxqTH20:41t3rn4t3
+$1$ZScxtUI7$O38W8SgWrPsvLjl4UA4Og1:14b0r4t0ri35
+$1$f5Bw0IKt$2u7QmNwYzD7lqArefbYVb/:int3rn4ti0n411y

@@ -1,0 +1,26 @@
+Session..........: 2025-11-04
+Status...........: Exhausted
+Hash.Mode........: 500 (md5crypt, MD5 (Unix), Cisco-IOS $1$ (MD5))
+Hash.Target......: C:\Users\spark\OneDrive\Documents\AplliedCryptoClass\PasswordCrack\shadow.txt
+Time.Started.....: Sat Nov 08 12:31:27 2025 (1 sec)
+Time.Estimated...: Sat Nov 08 12:31:28 2025 (0 secs)
+Kernel.Feature...: Pure Kernel (password length 0-256 bytes)
+Guess.Base.......: File (C:\Users\spark\OneDrive\Documents\AplliedCryptoClass\PasswordCrack\wordlist.txt)
+Guess.Queue......: 1/1 (100.00%)
+Speed.#01........:   481.4 kH/s (4.10ms) @ Accel:24 Loops:1000 Thr:1024 Vec:1
+Recovered........: 5/20 (25.00%) Digests (total), 5/20 (25.00%) Digests (new), 5/20 (25.00%) Salts
+Progress.........: 44820/44820 (100.00%)
+Rejected.........: 0/44820 (0.00%)
+Restore.Point....: 2241/2241 (100.00%)
+Restore.Sub.#01..: Salt:19 Amplifier:0-1 Iteration:0-1
+Candidate.Engine.: Host Generator + PCIe
+Candidates.#01...: information -> configurations
+Hardware.Mon.#01.: Temp: 57c Fan:  0% Util:  5% Core:1957MHz Mem:7301MHz Bus:16
+Started: Sat Nov 08 12:31:23 2025
+Stopped: Sat Nov 08 12:31:29 2025
+
+$1$qV12ONrm$pexwVxdboE2Ae44B3mka01:cincinnati
+$1$Xv7JAxzV$3lhJir1rSrua2Ex4tiOj0/:revolutionary
+$1$feMN1Aci$py8cBbqYPNt0tPD7PvPc51:longitude
+$1$CRWV4i7d$1Rc99I52lsZSsLL6nF6NY/:forwarding
+$1$bAgedIxw$qHvoO8m1ret74ZvdLaeGH.:increased
