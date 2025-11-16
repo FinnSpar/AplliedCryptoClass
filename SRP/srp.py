@@ -24,7 +24,7 @@ result = saltbytes + passbytes
 #hash password, do the opperation 1000 times
 x = result
 for _ in range(1000):
-    x = hashlib.sha256((x)).digest()
+    x = hashlib.sha256(x).digest()
 intX = int.from_bytes(x, byteorder="big")
 
 ###print(intX)
